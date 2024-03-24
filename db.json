@@ -14,6 +14,18 @@
         },
         {
             "id": 2,
+            "itemImg": "https://i.ibb.co/c3mtH8j/choclate-cake.png",
+            "itemBigImg": "https://i.ibb.co/c3mtH8j/choclate-cake.png",
+            "itemName": "Chocolate cake",
+            "itemDesc": "Browse unique Coca-Cola products, clothing, & accessories, or customize Coke bottles and gifts",
+            "itemPrice": 17.76,
+            "itemCat": "desserts",
+            "sale": true,
+            "itemNewprice": 11.2,
+            "itemQty": 1
+        },
+        {
+            "id": 3,
             "itemImg": "https://i.ibb.co/Rgh4JLL/big.png",
             "itemBigImg": "https://i.ibb.co/Rgh4JLL/big.png",
             "itemName": "salad 1",
@@ -25,7 +37,7 @@
             "itemQty": 1
         },
         {
-            "id": 3,
+            "id": 4,
             "itemImg": "https://i.ibb.co/L6xYkbK/Cheese-Butter.png",
             "itemBigImg": "https://i.ibb.co/L6xYkbK/Cheese-Butter.png",
             "itemName": "Cheese Butter",
@@ -37,7 +49,19 @@
             "itemQty": 1
         },
         {
-            "id": 4,
+            "id": 5,
+            "itemImg": "https://i.ibb.co/wW9MDxc/choclate-muffin.png",
+            "itemBigImg": "https://i.ibb.co/wW9MDxc/choclate-muffin.png",
+            "itemName": "Chocolate Muffin",
+            "itemDesc": "Browse unique Coca-Cola products, clothing, & accessories, or customize Coke bottles and gifts",
+            "itemPrice": 23.22,
+            "itemCat": "desserts",
+            "sale": false,
+            "itemNewprice": 11.2,
+            "itemQty": 1
+        },
+        {
+            "id": 6,
             "itemImg": "https://i.ibb.co/8dtJwDz/Tropicana-Juice.png",
             "itemBigImg": "https://i.ibb.co/8dtJwDz/Tropicana-Juice.png",
             "itemName": "Tropicana Juice",
@@ -47,9 +71,21 @@
             "sale": true,
             "itemNewprice": 8.2,
             "itemQty": 1
-        },
+        }, 
         {
-            "id": 5,
+            "id": 7,
+            "itemImg": "https://i.ibb.co/7jWDFRb/country-burger.png",
+            "itemBigImg": "https://i.ibb.co/7jWDFRb/country-burger.png",
+            "itemName": "Country Burger",
+            "itemDesc": "A mighty meaty double helping of all the reasons you love our burger.",
+            "itemPrice": 18.35,
+            "itemCat": "burger",
+            "sale": true,
+            "itemNewprice": 16.2,
+            "itemQty": 1
+        },  
+        {
+            "id": 8,
             "itemImg": "https://i.ibb.co/8srNQgY/Chicken-Hawaii.png",
             "itemBigImg": "https://i.ibb.co/8srNQgY/Chicken-Hawaii.png",
             "itemName": "Chicken Hawaii",
@@ -61,7 +97,7 @@
             "itemQty": 1
         },
         {
-            "id": 6,
+            "id": 9,
             "itemImg": "https://i.ibb.co/vw22b2k/Black-Coffee.png",
             "itemBigImg": "https://i.ibb.co/vw22b2k/Black-Coffee.png",
             "itemName": "Black Coffee",
@@ -73,7 +109,7 @@
             "itemQty": 1
         },
         {
-            "id": 7,
+            "id": 10,
             "itemImg": "https://i.ibb.co/br6pSzJ/trio-chesse.png",
             "itemBigImg": "https://i.ibb.co/br6pSzJ/trio-chesse.png",
             "itemName": "Trio Cheesse",
@@ -83,9 +119,21 @@
             "sale": false,
             "itemNewprice": 13.2,
             "itemQty": 1
-        },
+        },  
         {
-            "id": 8,
+            "id": 11,
+            "itemImg": "https://i.ibb.co/MsnFsBb/double-cheese.png",
+            "itemBigImg": "https://i.ibb.co/MsnFsBb/double-cheese.png",
+            "itemName": "Double Cheese",
+            "itemDesc": "A mighty meaty double helping of all the reasons you love our burger.",
+            "itemPrice": 28.63,
+            "itemCat": "burger",
+            "sale": false,
+            "itemNewprice": 16.2,
+            "itemQty": 1
+        },  
+        {
+            "id": 12,
             "itemImg": "https://i.ibb.co/Rgh4JLL/big.png",
             "itemBigImg": "https://i.ibb.co/Rgh4JLL/big.png",
             "itemName": "salad 2",
@@ -97,7 +145,7 @@
             "itemQty": 1
         },
         {
-            "id": 9,
+            "id": 13,
             "itemImg": "https://i.ibb.co/MpNNskr/Water-Bottle.png",
             "itemBigImg": "https://i.ibb.co/MpNNskr/Water-Bottle.png",
             "itemName": "Water Bottle",
@@ -109,7 +157,7 @@
             "itemQty": 1
         },
         {
-            "id": 10,
+            "id": 14,
             "itemImg": "https://i.ibb.co/vhZMMKg/Blueberry.png",
             "itemBigImg": "https://i.ibb.co/vhZMMKg/Blueberry.png",
             "itemName": "Blueberry Shake",
@@ -121,7 +169,7 @@
             "itemQty": 1
         },
         {
-            "id": 11,
+            "id": 15,
             "itemImg": "https://i.ibb.co/2vJ445w/suprem-pizza.png",
             "itemBigImg": "https://i.ibb.co/2vJ445w/suprem-pizza.png",
             "itemName": "Suprem Pizza",
@@ -133,7 +181,7 @@
             "itemQty": 1
         },
         {
-            "id": 12,
+            "id": 16,
             "itemImg": "https://i.ibb.co/CsH0VHJ/Chicken-Burger.png",
             "itemBigImg": "https://i.ibb.co/CsH0VHJ/Chicken-Burger.png",
             "itemName": "Chicken Burger",
@@ -145,7 +193,7 @@
             "itemQty": 1
         },
         {
-            "id": 13,
+            "id": 17,
             "itemImg": "https://i.ibb.co/bd5GbXz/Trio-Cafe2.png",
             "itemBigImg": "https://i.ibb.co/bd5GbXz/Trio-Cafe2.png",
             "itemName": "trio Cafe",
@@ -157,7 +205,7 @@
             "itemQty": 1
         },
         {
-            "id": 14,
+            "id": 18,
             "itemImg": "https://i.ibb.co/Rgh4JLL/big.png",
             "itemBigImg": "https://i.ibb.co/Rgh4JLL/big.png",
             "itemName": "salad 3",
@@ -169,7 +217,7 @@
             "itemQty": 1
         },
         {
-            "id": 15,
+            "id": 19,
             "itemImg": "https://i.ibb.co/v4W4X9f/pepperoni-pizza.png",
             "itemBigImg": "https://i.ibb.co/v4W4X9f/pepperoni-pizza.png",
             "itemName": "Pepperoni Pizza",
@@ -181,7 +229,7 @@
             "itemQty": 1
         },
         {
-            "id": 16,
+            "id": 20,
             "itemImg": "https://i.ibb.co/7WP419Y/Double-Beef.png",
             "itemBigImg": "https://i.ibb.co/7WP419Y/Double-Beef.png",
             "itemName": "Double Beef Burger",
@@ -193,7 +241,19 @@
             "itemQty": 1
         },
         {
-            "id": 17,
+            "id": 21,
+            "itemImg": "https://i.ibb.co/D798T45/red-choclate-cake.png",
+            "itemBigImg": "https://i.ibb.co/D798T45/red-choclate-cake.png",
+            "itemName": "Red Chocolate Cake",
+            "itemDesc": "Browse unique Coca-Cola products, clothing, & accessories, or customize Coke bottles and gifts",
+            "itemPrice": 13.42,
+            "itemCat": "desserts",
+            "sale": false,
+            "itemNewprice": 11.2,
+            "itemQty": 1
+        },
+        {
+            "id": 22,
             "itemImg": "https://i.ibb.co/vQT3smm/Grand-Italiano.png",
             "itemBigImg": "https://i.ibb.co/vQT3smm/Grand-Italiano.png",
             "itemName": "Grand Italiano",
@@ -202,6 +262,18 @@
             "itemCat": "pizza",
             "sale": false,
             "itemNewprice": 13.2,
+            "itemQty": 1
+        },
+        {
+            "id": 23,
+            "itemImg": "https://i.ibb.co/JcbLYNm/pene-salmone.png",
+            "itemBigImg": "https://i.ibb.co/JcbLYNm/pene-salmone.png",
+            "itemName": "Pene Salmone",
+            "itemDesc": "A mighty meaty double helping of all the reasons you love our burger.",
+            "itemPrice": 14.05,
+            "itemCat": "burger",
+            "sale": true,
+            "itemNewprice": 10.02,
             "itemQty": 1
         }
     ]
